@@ -1,0 +1,81 @@
+ 
+ html{
+     height:100%;
+ }
+ body {
+     background-image: url(images/pexels-chan-walrus-941861.jpg);
+    background-color: rgb(49, 48, 48);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.content {
+    margin-left: auto;
+    margin-right: auto ;
+    width: 1024px;
+}
+header {
+
+height: 100px;
+text-align: center;
+}
+nav {
+    padding-top:15px;
+    text-align: center  ;
+    background-color: rgba(0, 0, 0, 0.253);
+    height: 40px;
+}
+main {
+    
+    height: 420px;
+    text-align: center;
+    padding-top:80px ;
+    
+}
+footer {
+    background-color:rgba(0, 0, 0, 0.5);
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+img {    
+    border-radius: 50%;   
+    width:200px ;
+    height:95px ;
+}
+h1 {
+    font-size: 60px;
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif,Arial, Helvetica, sans-serif;
+    margin-top:0px;
+}
+p { 
+    font-size: 16px;
+    color: aliceblue;
+    padding-left:240px;
+    padding-right:240px;
+}
+    
+a{
+    color: aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif Arial, Helvetica, sans-serif; 
+}
+
+nav a {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+main a {
+    font-size:25px;
+}
+
+footer p {
+    font-size:10px;
+    text-align: center;
+    color: rgb(216, 216, 216);
+}
+section {
+    padding-top:15px;
+
+}
